@@ -12,24 +12,22 @@ As it is a Macromedia Flash project, it is now obsolete, however, you can get th
 
 ## What did it look like?
 
-<video width="100%"  controls>
-  <source src="/video/saxon.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+https://museologi.st/video/detecting.mp4
 
-To find out more you can read my [project overview](https://museologi.st/projects/anglo-saxon-village) on my portfolio. 
+To find out more you can read my [project overview](https://museologi.st/projects/anglo-saxon-village) on my portfolio.
+
 ## Contributors
 
-Daniel Pett
-Helen Geake
-Cei Paynton
-Richard Lee
-Helen Watson
-David Jillings
-Joseph Sivell
-Peter Reavill
-Mrs Sherriff
-Unidentified school children
+* Daniel Pett
+* Helen Geake
+* Cei Paynton
+* Richard Lee
+* Helen Watson
+* David Jillings
+* Joseph Sivell
+* Peter Reavill
+* Mrs Sherriff
+* Unidentified school children
 
 ## License
 
